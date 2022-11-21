@@ -1,4 +1,5 @@
 # Runqi-Zhao-Final-Project
+# Resonance
 Project video link https://youtu.be/BWLC2S-mx48 
 # Brief
 
