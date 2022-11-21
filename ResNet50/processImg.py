@@ -1,5 +1,6 @@
 """
-    预处理数据
+Reference    https://zhuanlan.zhihu.com/p/38425733?utm_source=wechat_session&utm_medium=social&utm_oi=941353197001019392
+#     Code  https://github.com/Arthurzhangsheng/NARUTO_game https://github.com/LuXuanqing/tutorial-image-recognition
 """
 import os
 import glob
