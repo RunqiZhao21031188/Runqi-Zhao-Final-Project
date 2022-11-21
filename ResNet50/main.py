@@ -3,7 +3,7 @@ from torch import nn, optim
 from model import resnet50
 from densenet import DenseNet_BC
 from dataloaders import *
-
+# Reference https://github.com/tornadomeet/ResNet   https://arxiv.org/abs/1512.03385
 
 def main():
     Batch_size = 64
